@@ -1,0 +1,5 @@
+Amex	1.0
+Cash	1.0
+Discover	1.0
+MasterCard	1.0
+Visa	1.0
